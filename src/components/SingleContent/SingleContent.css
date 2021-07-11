@@ -4,15 +4,16 @@
     width: 200px;
     padding: 5px;
     margin: 5px 0;
-    background-color: #282c34;
+    background-color: #636363;
     border-radius: 10px;
     position: relative;
     font-family: "Montserrat", sans-serif;
   }
   
   .media:hover {
-    background-color: white;
+    background-color: #DBDBDB;
     color: black;
+    font-weight: bold;
   }
   
   @media (max-width: 550px) {

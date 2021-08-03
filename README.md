@@ -15,4 +15,4 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 In the Seats:
-A web application that utilizes a movie API that allows users to browse the most trending movies and television shows.
+A web application that utilizes a movie API that allows users to browse the most trending movies and television shows!
